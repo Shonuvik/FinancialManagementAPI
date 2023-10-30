@@ -1,5 +1,4 @@
 ﻿using FinancialManagement.Controllers.Dtos;
-using FinancialManagement.Domains.Entities;
 using FinancialManagement.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
