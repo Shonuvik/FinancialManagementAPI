@@ -7,11 +7,11 @@ Informar o token via header, conforme imagem de exemplo ![image](https://github.
 
 Rodar script abaixo em uma instancia de banco de dados SQL Server
 
-#CREATE TABLE Expenses (
-#  id              INT           NOT NULL    IDENTITY    PRIMARY KEY,
-#  Name            VARCHAR(255)  NOT NULL,
-#  Type  	      VARCHAR(100),
-#  Value           NUMERIC(18, 2)
-#);
+CREATE TABLE Expenses (
+  id              INT           NOT NULL    IDENTITY    PRIMARY KEY,
+  Name            VARCHAR(255)  NOT NULL,
+  Type  	      VARCHAR(100),
+  Value           NUMERIC(18, 2)
+);
 
 
