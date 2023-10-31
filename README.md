@@ -1,5 +1,5 @@
 # FinancialManagement
-#Para execucão dessa API, siga os passos abaixo
+# Para execucão dessa API, siga os passos abaixo
 
 # Gerar token de autenticação utilizando a api https://github.com/Shonuvik/AuthenticationAPI/tree/develop.
 
