@@ -8,6 +8,11 @@ namespace FinancialManagement.Domain.Entities
 
         public Expenses() { }
 
+        public Expenses(IExpensesRepository expensesRepository)
+        {
+            _expensesRepository = expensesRepository;
+        }
+
         public Expenses(string name, string type, decimal value)
         {
             Validate(name, type, value);
